@@ -1,4 +1,6 @@
-## Welcome to my project page.
+## Welcome to my page.
+
+![typing test](https://github.com/randomusername9598/project/blob/gh-pages/Images/image.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/randomusername9598/project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
